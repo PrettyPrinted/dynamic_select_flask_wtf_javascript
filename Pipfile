@@ -1,14 +1,11 @@
 [[source]]
-
 url = "https://pypi.python.org/simple"
 name = "pypi"
 verify_ssl = true
 
-
 [packages]
-
 flask = "*"
-
+flask-wtf = "*"
+flask-sqlalchemy = "*"
 
 [dev-packages]
-
